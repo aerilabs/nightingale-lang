@@ -1,0 +1,1 @@
+// Tokenizer file, structures characters in plain text into tokens for parsing.
